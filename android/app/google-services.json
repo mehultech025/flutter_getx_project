@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264564772185",
+    "project_id": "fluttergetx-dff02",
+    "storage_bucket": "fluttergetx-dff02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264564772185:android:73d493d2254d829823d048",
+        "android_client_info": {
+          "package_name": "com.example.flutter_getx_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaaO32OJnOWBgYHz_fNxhpZBBb9jt8M0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
