@@ -39,14 +39,7 @@ dependencies:
   infinite_scroll_pagination: ^4.0.0
   firebase_core:
   cloud_firestore:
-  shared_preferences:
-  flutter_doc_scanner:
-  uuid:
-  firebase_ai:
-  google_mlkit_text_recognition:
-  firebase_storage:
-  flutter_flip_card:
-  flutter_card_swiper:
+
 
 
 dev_dependencies:
